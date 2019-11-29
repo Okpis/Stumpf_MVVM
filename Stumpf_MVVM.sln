@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29418.71
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stumpf_MVVM.Android", "Stumpf_MVVM.Android\Stumpf_MVVM.Android.csproj", "{501EBB36-F1C0-471A-B435-88F5355B78E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stumpf_MVVM", "Stumpf_MVVM\Stumpf_MVVM.csproj", "{8D3AA2DE-072F-4689-9C15-002D27CB696D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stumpf_MVVM", "Stumpf_MVVM\Stumpf_MVVM.csproj", "{8D3AA2DE-072F-4689-9C15-002D27CB696D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

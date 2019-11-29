@@ -45,7 +45,7 @@ namespace Stumpf_MVVM.Droid
             string versionCodeOrBuildNumber = releaseDetails.Version;
             string releaseNotes = releaseDetails.ReleaseNotes;
             Uri releaseNotesUrl = releaseDetails.ReleaseNotesUrl;
-
+            //TESTE
             // custom dialog
             var title = "Versão " + versionName + " disponível!";
             Task answer;
