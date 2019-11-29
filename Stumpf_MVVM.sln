@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stumpf_MVVM.Android", "Stumpf_MVVM.Android\Stumpf_MVVM.Android.csproj", "{501EBB36-F1C0-471A-B435-88F5355B78E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stumpf_MVVM", "Stumpf_MVVM\Stumpf_MVVM.csproj", "{8D3AA2DE-072F-4689-9C15-002D27CB696D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{501EBB36-F1C0-471A-B435-88F5355B78E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501EBB36-F1C0-471A-B435-88F5355B78E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501EBB36-F1C0-471A-B435-88F5355B78E0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{501EBB36-F1C0-471A-B435-88F5355B78E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501EBB36-F1C0-471A-B435-88F5355B78E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{501EBB36-F1C0-471A-B435-88F5355B78E0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8D3AA2DE-072F-4689-9C15-002D27CB696D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D3AA2DE-072F-4689-9C15-002D27CB696D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D3AA2DE-072F-4689-9C15-002D27CB696D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D3AA2DE-072F-4689-9C15-002D27CB696D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D33D52E-A3B1-4B3A-8B5A-1DF1871AB643}
+	EndGlobalSection
+EndGlobal
